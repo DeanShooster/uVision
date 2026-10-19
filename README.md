@@ -2,6 +2,12 @@
 
 Visual Algorithms, Animations and Motions — watch complex algorithms run step by step, explore living worlds, and push real-time systems around in the browser.
 
+## Demo
+
+Watch the app running in real time:
+
+**[uVision walkthrough](https://youtu.be/yefLjXSmaGM)**
+
 ## Scripts
 
 ```bash
