@@ -1,6 +1,6 @@
 # uVision
 
-Visual Algorithms, Animations and Motions — watch complex algorithms run step by step, explore living worlds, and push real-time systems and animations around in the browser.
+Visual Algorithms, Animations and Motions — watch complex algorithms run step by step, explore living worlds, push and challenge real-time systems and animations around in the browser.
 
 ## Demo
 
